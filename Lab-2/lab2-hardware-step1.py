@@ -11,7 +11,7 @@ W=[255,255,255]
 sense = sense_hat.SenseHat()
 
 
-initials=[0 ,0];
+initials=[0 ,0]
 initials[0] = [
     B, B, W, W, W, W, B, B,
     B, B, W, B, B, W, B, B,
